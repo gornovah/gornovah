@@ -1,6 +1,6 @@
 # Hi, I'm Domingo :swimmer: :bicyclist: :runner:
 
-###### I'm a software developer, I love learning how things work, I'm always researching and learning something new. I love being able to help others. In terms of technology these last years I've been working with Kotlin, and now I'm trying to improve it with a personal project.
+I'm a software developer, I love learning how things work, I'm always researching and learning something new. I love being able to help others. In terms of technology these last years I've been working with Kotlin, and now I'm trying to improve it with a personal project.
 
 ## Find me in: 
 - I write in [Medium](https://medium.com/@domingo.em) :computer:

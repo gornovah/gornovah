@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Domingo :swimmer: :bicyclist: :runner:
+
+###### I'm a software developer, I love learning how things work, I'm always researching and learning something new. I love being able to help others. In terms of technology these last years I've been working with Kotlin, and now I'm trying to improve it with a personal project.
+
+## Find me in: 
+- I write in [Medium](https://medium.com/@domingo.em) :computer:
+- Sharing ideas on [Twitter](https://twitter.com/gornovah) :bird:
+- For everything else [Linkedin](https://www.linkedin.com/in/domingoespinosa/) :briefcase:
 
 <!--
 **gornovah/gornovah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
